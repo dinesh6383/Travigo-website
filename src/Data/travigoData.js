@@ -1,34 +1,34 @@
-import dashboard from "../images/dashboard.png";
-import memoryimg from "../images/memory.png";
+import dashboard from "../Images/dashboard.png";
+import memoryimg from "../Images/memory.png";
 
-import brand1 from "../images/brand1.png";
-import brand2 from "../images/brand2.png";
-import brand3 from "../images/brand3.png";
-import brand4 from "../images/brand4.png";
-import brand5 from "../images/brand5.png";
+import brand1 from "../Images/brand1.png";
+import brand2 from "../Images/brand2.png";
+import brand3 from "../Images/brand3.png";
+import brand4 from "../Images/brand4.png";
+import brand5 from "../Images/brand5.png";
 
-import place1 from "../images/img1.webp";
-import place2 from "../images/img2.webp";
-import place3 from "../images/img3.webp";
-import place4 from "../images/img4.webp";
-import place5 from "../images/img5.jpg";
-import place6 from "../images/img6.webp";
-import place7 from "../images/img7.webp";
-import place8 from "../images/img8.webp";
-import place9 from "../images/img9.webp";
-import place10 from "../images/img10.webp";
+import place1 from "../Images/img1.webp";
+import place2 from "../Images/img2.webp";
+import place3 from "../Images/img3.webp";
+import place4 from "../Images/img4.webp";
+import place5 from "../Images/img5.jpg";
+import place6 from "../Images/img6.webp";
+import place7 from "../Images/img7.webp";
+import place8 from "../Images/img8.webp";
+import place9 from "../Images/img9.webp";
+import place10 from "../Images/img10.webp";
 
-import standardicon from "../images/standardicon.png";
-import preminumicon from "../images/preminum.png";
-import checkbox from "../images/checkbox.svg";
-import uncheckbox from "../images/uncheckbox.svg";
+import standardicon from "../Images/standardicon.png";
+import preminumicon from "../Images/preminum.png";
+import checkbox from "../Images/checkbox.svg";
+import uncheckbox from "../Images/uncheckbox.svg";
 
-import facebook from "../images/facebook.svg";
-import instagram from "../images/instagram.svg";
-import twitter from "../images/twitter.svg";
-import youtube from "../images/youtube.svg";
+import facebook from "../Images/facebook.svg";
+import instagram from "../Images/instagram.svg";
+import twitter from "../Images/twitter.svg";
+import youtube from "../Images/youtube.svg";
 
-import banner from "../images/banner.webp";
+import banner from "../Images/banner.webp";
 
 export const brands = [
   { iconSrc: brand1 },
